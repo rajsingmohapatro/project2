@@ -45,4 +45,4 @@ EWM Long Term Model Portfolio Holdings Example:
 
 Lambda and Lex Bot Integration Example:
 
-![Lex](lambda_integration.png)
+![Lex](lambda_integration.PNG)
