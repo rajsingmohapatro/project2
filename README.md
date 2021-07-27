@@ -33,6 +33,26 @@ Indicators used: EWM, SMA, Bollinger Bands, Volatility, RSI, Random Forest Class
 
 Lex Bot built using Amazon Lex V1
 
+## Findings Summary 
+
+Long term performed much better than short term but market was noted to be in an uptrend
+
+The best long term performing model was EMW resulting in a portfolio value of $390K ( 870% ROI
+
+The worst performing long term performing model was Bollinger Bands resulting in a portfolio value of $162K (303%) 
+
+The best log loss in both short term and long term - RF5 @ 0.95
+
+For the short term strategy - smaller windows resulted in more frequent entry/exit with improved performance
+
+The range of results for the short term varied from positive to negative returns
+
+Target positive return was reduced in the RF short term model to improve results 
+
+The use of Entry/Exit point vs Signals improved the performance of Random Forest Models 
+
+Changes in time frame results in large variations - e.g changing date parameters
+
 ## Image examples below:
 
 EWM Long Term Model Chart Example:
